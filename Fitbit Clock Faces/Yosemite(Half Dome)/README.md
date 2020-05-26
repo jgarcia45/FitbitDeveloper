@@ -5,6 +5,7 @@ Source code: (Source code link)
 
 ## Summary
 
+I previoulsy stated that I would createa library database, however, I came across something else and decided to persue that.
 (Write a short, 1-2 paragraph summary of what you did for Code With Friends this month)
 
 (Insert any pictures or screenshots of your final project here)
