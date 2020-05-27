@@ -1,0 +1,8 @@
+<svg>
+  <image href="yosemite.jpg" />
+  <text id="myBattery" class="topLeft smallFont"/>
+  <text id="myDate"/>
+  <text id="myLabel"></text>
+  <image id="stepIcon" x="75%" y="1%" width="25" height="25" href="stat_steps_open_32px.png" />
+  <text id="mySteps" />
+</svg>
